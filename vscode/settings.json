@@ -1,0 +1,41 @@
+{
+	"workbench.welcome.enabled": false,
+	"telemetry.enableTelemetry": false,
+	"telemetry.enableCrashReporter": false,
+	"extensions.autoUpdate": true,
+	"window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+	"window.zoomLevel": 0,
+	"editor.tabSize": 4,
+	"workbench.iconTheme": "vscode-great-icons",
+	"php.executablePath": "C:\\xampp\\php\\php.exe",
+	"php.suggest.basic": false,
+	"workbench.activityBar.visible": false,
+	"workbench.sideBar.location": "left",
+	"vsicons.dontShowNewVersionMessage": true,
+	"window.menuBarVisibility": "toggle",
+	"workbench.colorTheme": "Monokai Dimmed",
+	"editor.fontSize": 16,
+	"editor.wordWrap": "off",
+	"editor.mouseWheelZoom": true,
+	"workbench.colorCustomizations": {
+		"statusBar.background": "#007ACC", // #007ACC
+		"statusBar.noFolderBackground": "#68217A",
+		"statusBar.debuggingBackground": "#ef8521",
+		"activityBarBadge.background": "#464741", // #007ACC
+		"editorIndentGuide.background": "#464741",
+		"editorCursor.foreground": "#ffffff",
+		"focusBorder": "#3655b5",
+		"editor.selectionBackground": "#373b41"
+	},
+	"explorer.openEditors.visible": 0,
+	"workbench.editor.showTabs": false,
+	"editor.renderIndentGuides": false,
+	"editor.folding": false,
+	"editor.lineNumbers": "off",
+	"editor.cursorStyle": "block",
+	"editor.cursorBlinking": "solid",
+	"workbench.statusBar.visible": false,
+	"editor.renderLineHighlight": "none",
+	"editor.roundedSelection": false,
+	"editor.glyphMargin": true
+}
